@@ -1,7 +1,7 @@
 # Olá, me chamo Vinicius Reis ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 💼 Atualmente estou trabalhando como Security Analyst no Departamento de Controle do Espaço Aéreo (DECEA).
+- 💼 Atualmente estou trabalhando como Security Analyst.
 - 🎓 Graduado em Redes de Computadores.
 - 🎓 Pos Graduado em Segurança da Informação e em Cloud Computer.
 - 📌 RJ 
