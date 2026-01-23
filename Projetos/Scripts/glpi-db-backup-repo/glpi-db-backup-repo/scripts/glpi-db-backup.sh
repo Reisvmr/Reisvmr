@@ -18,7 +18,7 @@ LOCK_FILE="/var/lock/glpi-db-backup.lock"
 # DB
 DB_HOST="127.0.0.1"
 DB_PORT="3306"
-DB_NAME="glpi10"
+DB_NAME="glpi"
 DB_USER="glpi_backup"
 DB_PASS_FILE="/etc/glpi-backup/db.pass"
 

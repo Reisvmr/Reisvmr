@@ -86,7 +86,7 @@ binlog_expire_logs_seconds = 604800
 ## Restore (visão geral)
 1) Restaure o FULL:
 ```bash
-zcat /var/backups/glpi-db/YYYY-MM-DD/glpi_full_*.sql.gz | mysql -u root -p glpi10
+zcat /var/backups/glpi-db/YYYY-MM-DD/glpi_full_*.sql.gz | mysql -u root -p glpi
 ```
 
 2) Aplique binlogs (do(s) dia(s) após o FULL):

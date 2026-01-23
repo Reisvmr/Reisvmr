@@ -1,0 +1,5 @@
+*.log
+*.tar
+*.tar.gz
+*.gz
+db.pass
