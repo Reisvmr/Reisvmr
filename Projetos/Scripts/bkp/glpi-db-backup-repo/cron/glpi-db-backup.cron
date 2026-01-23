@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# GLPI DB backup - daily at 02:15
+15 2 * * * root /usr/local/sbin/glpi-db-backup.sh
