@@ -2,9 +2,9 @@
 
 # Vinicius Reis
 
-**Security Analyst · Rio de Janeiro, RJ**
+**Cibersegurança · Arquitetura de Segurança · DevSecOps · Rio de Janeiro, RJ**
 
-Protejo ambientes detectando e respondendo a ameaças, e uso automação para tornar a segurança mais eficiente.
+Mais de 15 anos em TI, de infraestrutura a segurança: protejo ambientes corporativos com controles de segurança, DevSecOps e automação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Reis-0A66C2?style=flat-square)](https://www.linkedin.com/in/vinicius-de-matos-reis-32888a2b)
 [![E-mail](https://img.shields.io/badge/E--mail-reisvmr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reisvmr@gmail.com)
@@ -16,56 +16,79 @@ Protejo ambientes detectando e respondendo a ameaças, e uso automação para to
 
 ## 👋 Sobre mim
 
-- 🛡️ **Analista de Segurança**: trabalho com proteção, detecção e resposta a ameaças.
-- 🎓 Formado em **Redes de Computadores**, com pós-graduação em **Segurança da Informação** e em **Cloud Computing**.
+- 🛡️ Mais de 15 anos em TI, hoje focado em **cibersegurança e arquitetura de segurança**.
+- 🎓 Tecnólogo em **Redes de Computadores**, com pós em **Segurança de Redes** e em **Cloud Computing**.
 - ⚙️ Tenho interesse em **DevSecOps**, **automação** e **monitoramento**.
 - 🎮 Fora do trabalho, gosto de filmes, games e séries.
 
-<!-- Opcional: adicione certificações reais aqui, por exemplo:
-## 📜 Certificações
-- Nome da certificação (Emissor, ano)
--->
+<details>
+<summary><h2>💼 Trajetória</h2></summary>
 
-## 🛡️ Cybersecurity
+- **2023 – hoje · Telecom:** arquitetura e controles de segurança (PAM, EDR, DLP/CASB, SIEM), DevSecOps e adequação à LGPD.
+- **2013 – 2023 · Aviação / controle do espaço aéreo:** de infraestrutura e monitoramento a segurança, com riscos, conformidade e governança.
+- **2011 – 2012 · Aeroportuário:** suporte e infraestrutura de redes e servidores.
 
-| Domínio | Conceitos | Soluções com que trabalhei ou estudei |
+</details>
+
+<details>
+<summary><h2>📜 Certificações e cursos</h2></summary>
+
+| Certificação / curso | Instituição |
+| :--- | :--- |
+| BIG-IP LTM: Fundamentals & Administration | F5 |
+| BIG-IP DNS: Fundamentals & Administration | F5 |
+| Implementing DevOps Solutions and Practices Using Cisco Platforms | Cisco Networking Academy |
+| CCNA: Infraestrutura de redes (curso) | Infinet |
+</details>
+
+<details>
+<summary><h2>🛡️ Cybersecurity</h2></summary>
+
+| Área de conhecimento | Conceitos e abordagens | Soluções com que atuei |
 | :--- | :--- | :--- |
-| **Endpoint** | EPP · EDR · XDR | CrowdStrike Falcon · Trend Micro Apex One · Palo Alto Cortex XDR |
-| **Rede e perímetro** | NGFW · WAF · IDS/IPS · NDR · ZTNA | Cisco FMC/FTD · BIGIP F5 · NetScaler WAF · Cisco Secure Network Analytics  |
-| **E-mail e dados** | SEG · CDR · CASB · DLP | Cisco Secure Email · ETD Cisco · Microsoft DLP e Netskope |
-| **Operações de segurança** | SIEM · SOAR · MDR · CTI · UEBA | Splunk ES · Cortex XSOAR · Falcon Complete |
-| **Cloud** | CSPM · CWPP · CNAPP · CIEM | Prisma Cloud · Wiz · Trend Micro Workload Security |
-| **Identidade e acesso** | IAM · PAM · MFA | Microsoft Entra ID · CyberArk · Cisco Duo |
-| **Exposição e validação** | EASM · BAS | Microsoft Defender EASM · MITRE Caldera |
+| Proteção e resposta em endpoints | Antivírus, EPP e EDR | Implantação e administração de EDR corporativo |
+| Segurança de perímetro e aplicações web | NGFW, WAF, VPN e proxy | Cisco FMC (integração via API) · pfSense · ISA Server |
+| Balanceamento de carga e entrega de aplicações | ADC, LTM e GSLB/DNS | F5 BIG-IP LTM · F5 BIG-IP DNS |
+| Detecção e prevenção de intrusões | IDS, IPS e HIDS | OSSEC |
+| Segurança de e-mail | Antispam | Administração de antispam corporativo |
+| Proteção de dados e privacidade | CASB, DLP e LGPD | Administração de DLP e CASB · adequação à LGPD |
+| Monitoramento e correlação de eventos | SIEM | Administração de SIEM corporativo |
+| Inteligência de ameaças | Reputação de IPs | AbuseIPDB (automação via API) |
+| Microssegmentação de cargas de trabalho | Microssegmentação | Guardicore Centra (integração via API) |
+| Gestão de identidades e acessos privilegiados | IAM e PAM | CyberArk Password Vault · Active Directory · Office 365 |
+| Segurança em nuvem | Avaliação de riscos e boas práticas | Microsoft Azure |
+| Segurança no ciclo de desenvolvimento | SAST, DAST, SCA e Secure SDLC | OWASP ZAP · Azure DevOps |
+| Gestão de vulnerabilidades e testes de intrusão | Varredura de vulnerabilidades e pentest | OpenVAS · OWASP ZAP |
 
-## 🧰 Infraestrutura, automação e monitoramento
+</details>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square)
+<details>
+<summary><h2>🧰 Infraestrutura, automação e monitoramento</h2></summary>
 
-## 📂 Projetos em destaque
+| Área de conhecimento | Exemplos de tecnologias |
+| :--- | :--- |
+| Controle de versão e CI/CD | Git · Azure DevOps |
+| Sistemas operacionais | Linux (Debian, Red Hat) · Windows Server |
+| Virtualização | VMware ESXi |
+| Diretório e colaboração | Active Directory · Exchange · Office 365 |
+| Backup e armazenamento | NetBackup · Arcserve · Storage Dell |
+| Automação de infraestrutura e scripting | Ansible · Python · Shell Script |
+| Conteinerização de aplicações | Docker |
+| Monitoramento de infraestrutura e métricas | Zabbix · Prometheus |
+
+</details>
+
+<details>
+<summary><h2>📂 Projetos em destaque</h2></summary>
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Zabbix Advisor Pro**](https://github.com/reisvmr/-Zabbix-Advisor-Pro) | Ferramenta de health-check para ambientes Zabbix. Tem dashboard web, recomendações priorizadas, correções automáticas com prévia (*dry-run*), sugestões de tuning de pollers e proxies, histórico de análises e exportação em PDF/CSV. | Python · API do Zabbix · SQLite · Docker |
-| [**Scans automatizados com OWASP ZAP**](https://github.com/reisvmr/SCANs_Atomatizados_OWASP_ZAP) | Automatiza scans de segurança em aplicações web com o OWASP ZAP em contêiner. Permite ligar ou desligar os testes ativos e gera relatórios e logs identificados pelo domínio, data e hora. | Bash · Docker · OWASP ZAP |
-| [**Python Projects**](https://github.com/reisvmr/Python_projects) | Scripts de segurança e automação: consulta de reputação de IPs no AbuseIPDB, integrações com as APIs do Cisco FMC e do Guardicore, automação de pipelines no Azure DevOps e rotinas para Zabbix (itens, manutenção e particionamento do MySQL). | Python · APIs REST · MySQL |
+| [**Zabbix Advisor Pro**](https://github.com/reisvmr/-Zabbix-Advisor-Pro) | Health-check para ambientes Zabbix: dashboard web, recomendações priorizadas, correções automáticas com *dry-run*, tuning de pollers e proxies, exportação em PDF/CSV. | Python · API do Zabbix · SQLite · Docker |
+| [**Scans automatizados com OWASP ZAP**](https://github.com/reisvmr/SCANs_Atomatizados_OWASP_ZAP) | Scans de segurança em aplicações web com OWASP ZAP em contêiner, com testes ativos opcionais e relatórios e logs por domínio e data. | Bash · Docker · OWASP ZAP |
+| [**Python Projects**](https://github.com/reisvmr/Python_projects) | Scripts de segurança e automação: reputação de IPs (AbuseIPDB), integrações com Cisco FMC e Guardicore, pipelines no Azure DevOps e rotinas para Zabbix. | Python · APIs REST · MySQL |
 
 [Ver todos os repositórios →](https://github.com/reisvmr?tab=repositories)
 
-<details>
-<summary>📊 Estatísticas do GitHub</summary>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=reisvmr&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisvmr&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" height="165" alt="Linguagens mais usadas" />
-
-<sub>Os cards vêm de um serviço externo e podem ficar fora do ar. A distribuição de linguagens mostra o código dos repositórios, não o nível de domínio.</sub>
 </details>
 
 ---
