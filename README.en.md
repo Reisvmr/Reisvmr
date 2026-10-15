@@ -1,7 +1,6 @@
- 
 <div align="right">
 
-[🇧🇷 Português](README.md) | 🇺🇸 **English**
+<a href="README.md">🇧🇷</a> | 🇺🇸
 
 </div>
 
