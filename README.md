@@ -27,6 +27,7 @@ Mais de 15 anos em TI, de infraestrutura a segurança: protejo ambientes corpora
 - **2023 – hoje · Telecom:** arquitetura e controles de segurança (PAM, EDR, DLP/CASB, SIEM), DevSecOps e adequação à LGPD.
 - **2013 – 2023 · Aviação / controle do espaço aéreo:** de infraestrutura e monitoramento a segurança, com riscos, conformidade e governança.
 - **2011 – 2012 · Aeroportuário:** suporte e infraestrutura de redes e servidores.
+- **2008 – 2011 · Educação e serviços de TI:** instrutor de cursos de TI e suporte técnico em redes e servidores.
 
 </details>
 
