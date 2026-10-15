@@ -1,4 +1,8 @@
-<div align="center">
+<div align="right">
+
+🇧🇷 | <a href="README.en.md">🇺🇸</a>
+
+</div>
 
 # Vinicius Reis
 
