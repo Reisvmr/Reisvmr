@@ -4,68 +4,72 @@
 
 **Security Analyst · Rio de Janeiro, RJ**
 
-`Cybersecurity` · `Automação` · `DevSecOps`
+Protejo ambientes detectando e respondendo a ameaças, e uso automação para tornar a segurança mais eficiente.
 
-[GitHub](https://github.com/reisvmr) · [LinkedIn](https://www.linkedin.com/in/vinicius-de-matos-reis-32888a2b) · [E-mail](mailto:reisvmr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Reis-0A66C2?style=flat-square)](https://www.linkedin.com/in/vinicius-de-matos-reis-32888a2b)
+[![E-mail](https://img.shields.io/badge/E--mail-reisvmr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reisvmr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-reisvmr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/reisvmr)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👋 Sobre mim
 
-Sou Vinicius Reis, **Analista de Segurança (Security Analyst)**, do Rio de Janeiro.
+- 🛡️ **Analista de Segurança**: trabalho com proteção, detecção e resposta a ameaças.
+- 🎓 Formado em **Redes de Computadores**, com pós-graduação em **Segurança da Informação** e em **Cloud Computing**.
+- ⚙️ Tenho interesse em **DevSecOps**, **automação** e **monitoramento**.
+- 🎮 Fora do trabalho, gosto de filmes, games e séries.
 
-- Graduado em **Redes de Computadores**.
-- Pós-graduado em **Segurança da Informação** e em **Computação em Nuvem (Cloud Computing)**.
-- Fora da tecnologia, curto **filmes,livros, games e séries**.
+<!-- Opcional: adicione certificações reais aqui, por exemplo:
+## 📜 Certificações
+- Nome da certificação (Emissor, ano)
+-->
 
-## Especialidades e interesses
+## 🛡️ Cybersecurity
 
-- **Cybersecurity:** minha área de atuação profissional.
-- **Redes e cloud:** áreas da minha formação acadêmica.
-- **Automação e monitoramento:** tecnologias presentes na minha stack.
-- **DevSecOps:** interesse na integração entre segurança, desenvolvimento e operações.
+| Domínio | Conceitos | Soluções com que trabalhei ou estudei |
+| :--- | :--- | :--- |
+| **Endpoint** | EPP · EDR · XDR | CrowdStrike Falcon · Trend Micro Apex One · Palo Alto Cortex XDR |
+| **Rede e perímetro** | NGFW · WAF · IDS/IPS · NDR · ZTNA | Cisco FMC/FTD · Cloudflare WAF · Snort · Suricata · Cisco Secure Network Analytics · Zscaler |
+| **E-mail e dados** | SEG · CDR · CASB · DLP | Cisco Secure Email · OPSWAT MetaDefender · Netskope · Symantec DLP |
+| **Operações de segurança** | SIEM · SOAR · MDR · CTI · UEBA | Splunk ES · Cortex XSOAR · Falcon Complete · OpenCTI · Exabeam |
+| **Cloud** | CSPM · CWPP · CNAPP · CIEM | Prisma Cloud · Wiz · Trend Micro Workload Security |
+| **Identidade e acesso** | IAM · PAM · MFA | Microsoft Entra ID · CyberArk · Cisco Duo |
+| **Exposição e validação** | EASM · BAS | Microsoft Defender EASM · MITRE Caldera |
 
-## Stack
+## 🧰 Infraestrutura, automação e monitoramento
 
-| Área | Tecnologias |
-| :--- | :--- |
-| Versionamento e sistemas | ![Git](https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624) |
-| Automação e scripting | ![Ansible](https://img.shields.io/badge/Ansible-161B22?style=flat&logo=ansible&logoColor=EE0000) ![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=58A6FF) |
-| Containers | ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED) |
-| Monitoramento | ![Prometheus](https://img.shields.io/badge/Prometheus-161B22?style=flat&logo=prometheus&logoColor=E6522C) ![Zabbix](https://img.shields.io/badge/Zabbix-161B22?style=flat) |
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square)
 
-## Projetos
+## 📂 Projetos em destaque
 
-[Explore meus repositórios públicos →](https://github.com/reisvmr?tab=repositories)
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [**Zabbix Advisor Pro**](https://github.com/reisvmr/-Zabbix-Advisor-Pro) | Ferramenta de health-check para ambientes Zabbix. Tem dashboard web, recomendações priorizadas, correções automáticas com prévia (*dry-run*), sugestões de tuning de pollers e proxies, histórico de análises e exportação em PDF/CSV. | Python · API do Zabbix · SQLite · Docker |
+| [**Scans automatizados com OWASP ZAP**](https://github.com/reisvmr/SCANs_Atomatizados_OWASP_ZAP) | Automatiza scans de segurança em aplicações web com o OWASP ZAP em contêiner. Permite ligar ou desligar os testes ativos e gera relatórios e logs identificados pelo domínio, data e hora. | Bash · Docker · OWASP ZAP |
+| [**Python Projects**](https://github.com/reisvmr/Python_projects) | Scripts de segurança e automação: consulta de reputação de IPs no AbuseIPDB, integrações com as APIs do Cisco FMC e do Guardicore, automação de pipelines no Azure DevOps e rotinas para Zabbix (itens, manutenção e particionamento do MySQL). | Python · APIs REST · MySQL |
 
-<!-- Para destacar projetos, adicione aqui apenas links reais, com descrições fiéis ao conteúdo de cada repositório. -->
-
-## GitHub
+[Ver todos os repositórios →](https://github.com/reisvmr?tab=repositories)
 
 <details>
-<summary>Ver estatísticas e linguagens</summary>
-
+<summary>📊 Estatísticas do GitHub</summary>
 <br>
 
-<a href="https://github.com/reisvmr">
-  <img src="https://github-readme-stats.vercel.app/api?username=reisvmr&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;locale=pt-br" width="420" alt="Estatísticas públicas do GitHub de Vinicius Reis" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=reisvmr&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisvmr&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" height="165" alt="Linguagens mais usadas" />
 
-<a href="https://github.com/reisvmr?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisvmr&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;locale=pt-br" width="350" alt="Linguagens nos repositórios públicos de Vinicius Reis" />
-</a>
-
-<sub>Os cards dependem de um serviço externo e podem ficar indisponíveis. A distribuição de linguagens representa os repositórios analisados, não o nível de proficiência.</sub>
-
-[Consultar atividade diretamente no GitHub](https://github.com/reisvmr?tab=overview)
-
+<sub>Os cards vêm de um serviço externo e podem ficar fora do ar. A distribuição de linguagens mostra o código dos repositórios, não o nível de domínio.</sub>
 </details>
 
-## Contato
+---
 
-- **Gmail:** [reisvmr@gmail.com](mailto:reisvmr@gmail.com)
-- **LinkedIn:** [Vinicius de Matos Reis](https://www.linkedin.com/in/vinicius-de-matos-reis-32888a2b)
-
-<!-- O GitHub controla o fundo da página conforme o tema do visitante. Os badges e os cards usam uma paleta escura com detalhes em azul. -->
+<div align="center">
+<sub>Quer conversar sobre segurança? Me chame no <a href="https://www.linkedin.com/in/vinicius-de-matos-reis-32888a2b">LinkedIn</a> ou por <a href="mailto:reisvmr@gmail.com">e-mail</a>.</sub>
+</div>
