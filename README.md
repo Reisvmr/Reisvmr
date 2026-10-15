@@ -31,9 +31,9 @@ Protejo ambientes detectando e respondendo a ameaças, e uso automação para to
 | Domínio | Conceitos | Soluções com que trabalhei ou estudei |
 | :--- | :--- | :--- |
 | **Endpoint** | EPP · EDR · XDR | CrowdStrike Falcon · Trend Micro Apex One · Palo Alto Cortex XDR |
-| **Rede e perímetro** | NGFW · WAF · IDS/IPS · NDR · ZTNA | Cisco FMC/FTD · Cloudflare WAF · Snort · Suricata · Cisco Secure Network Analytics · Zscaler |
-| **E-mail e dados** | SEG · CDR · CASB · DLP | Cisco Secure Email · OPSWAT MetaDefender · Netskope · Symantec DLP |
-| **Operações de segurança** | SIEM · SOAR · MDR · CTI · UEBA | Splunk ES · Cortex XSOAR · Falcon Complete · OpenCTI · Exabeam |
+| **Rede e perímetro** | NGFW · WAF · IDS/IPS · NDR · ZTNA | Cisco FMC/FTD · BIGIP F5 · NetScaler WAF · Cisco Secure Network Analytics  |
+| **E-mail e dados** | SEG · CDR · CASB · DLP | Cisco Secure Email · ETD Cisco · Microsoft DLP e Netskope |
+| **Operações de segurança** | SIEM · SOAR · MDR · CTI · UEBA | Splunk ES · Cortex XSOAR · Falcon Complete |
 | **Cloud** | CSPM · CWPP · CNAPP · CIEM | Prisma Cloud · Wiz · Trend Micro Workload Security |
 | **Identidade e acesso** | IAM · PAM · MFA | Microsoft Entra ID · CyberArk · Cisco Duo |
 | **Exposição e validação** | EASM · BAS | Microsoft Defender EASM · MITRE Caldera |
